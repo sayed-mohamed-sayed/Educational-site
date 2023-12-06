@@ -81,13 +81,13 @@ export default function Book() {
 
 ])
     return (
-        <div className='bg-[#00000026] font-black'>
+        <div className='bg-[#00000026] h-[100%] font-black'>
 
         <div className=" bg-white font-bold cursor-pointer h-[30px] mt-2 mb-12">
              <Header/>
         </div>
      <h1 className='text-center font-black text-[#52057b] text-xl spacing-[10px]'>الكتب الدراسية </h1>
-        <div className='relative flex justify-center flex-wrap text-center w-screen mb-[50px] '>
+        <div className='relative flex justify-center flex-wrap text-center  pb-[50px] '>
             <Image width={1000} height={1000} className='w-screen h-screen fixed z-[-1]'  src="/book.jpg" alt="img" />
        {
            data.map((i:datas) =>{
