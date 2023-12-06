@@ -13,7 +13,7 @@ export default function SIGN() {
 <input className='focus:outline-none border border-solid border-[#52057b3d] w-[60%] pr-4 m-2' type="text" name="" id="" placeholder='اكتب الاسم ' />
 <input className='focus:outline-none border border-solid border-[#52057b3d] w-[60%] pr-4 m-2' type="email" name="" id="" placeholder='اكتب ايميلك' />
 <input className='focus:outline-none border border-solid border-[#52057b3d] w-[60%] pr-4 m-2' type="password" name="" placeholder='اكتب كلمة السر ' id="" />
-<button className='font-black w-[60%]   bg-[#52057b] text-white rounded'>انشاء حساب </button>
+<div className='font-black w-[60%]   bg-[#52057b] text-white rounded'>انشاء حساب </div>
 <Link href="/compontes/login">لدي حساب <span className='text-[#52057b]'>تسجيل الدخول </span></Link>
 </div>
       </div>

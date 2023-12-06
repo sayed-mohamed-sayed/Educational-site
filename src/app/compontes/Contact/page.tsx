@@ -15,7 +15,7 @@ export default function Emthan() {
 <input className='focus:outline-none border border-solid border-[#52057b3d] w-[60%] pr-4 m-2' type="text" name="" placeholder='اكتب اسمك ' id="" />
 <input className='focus:outline-none border border-solid border-[#52057b3d] w-[60%] pr-4 m-2' type="email" name="" id="" placeholder='اكتب ايميلك' />
 <textarea className='focus:outline-none w-[60%] pr-4 m-2 border border-solid border-[#52057b3d]' name="" id="" placeholder='ارسل لنا رسالة '></textarea>
-<button className='font-black w-[60%]   bg-[#52057b] text-white rounded'>ارسال</button>
+<div className='font-black w-[60%]   bg-[#52057b] text-white rounded'>ارسال</div>
 </div>
       </div>
       

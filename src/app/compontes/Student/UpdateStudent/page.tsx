@@ -12,7 +12,7 @@ export default function UpdateStudent({settogle}:any) {
                     <input className='focus:outline-none border border-solid border-[#52057b3d] w-[60%] pr-4 m-2' type="email" name="" id="" placeholder='الايميل' />
                     <input className='focus:outline-none border border-solid border-[#52057b3d] w-[60%] pr-4 m-2' type="password" name="" placeholder='كلمة السر ' id="" />
                     <input className='focus:outline-none border border-solid border-[#52057b3d] w-[60%] pr-4 m-2' type="file" name=""  id="" />
-                    <button className='font-bold w-[60%]   bg-[#52057b] text-white rounded' onClick={()=>settogle(false)}>تعديل</button>
+                    <div className='font-bold w-[60%]   bg-[#52057b] text-white rounded' onClick={()=>settogle(false)}>تعديل</div>
                 </div>
             </div>
 

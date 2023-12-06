@@ -10,7 +10,7 @@ export default function Test() {
 
  <div className="w-screen bg-white h-20 mb-8 text-center font-black"  >
      <Link href="/test">
-<button>ادخل الان</button>     
+<div>ادخل الان</div>     
      </Link>
   </div>
         </>
