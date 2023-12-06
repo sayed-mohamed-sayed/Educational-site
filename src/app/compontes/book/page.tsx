@@ -90,7 +90,7 @@ export default function Book() {
         <div className='relative flex justify-center flex-wrap text-center w-screen mb-[50px] '>
             <Image width={1000} height={1000} className='w-screen h-screen fixed z-[-1]'  src="/book.jpg" alt="img" />
        {
-           data.map((i) =>{
+           data.map((i:datas) =>{
                return (
                    <div key={i.id} className=" m-2 bg-white p-4 border-solid border-[#0000004a] border h-[200px] font-black">
                        <Image width={100} height={100} src={i.img} alt="img" />

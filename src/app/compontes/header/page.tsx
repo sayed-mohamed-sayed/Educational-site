@@ -1,9 +1,4 @@
-// @flow strict
-
 import Link from 'next/link';
-import * as React from 'react';
-import { useState } from 'react';
-
 export default function Header() {
   
     return (

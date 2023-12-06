@@ -1,9 +1,5 @@
-// @flow strict
-
 import Link from 'next/link';
 import * as React from 'react';
-import { useState } from 'react';
-// import { produsts } from '../data/product';
 import Header from './compontes/header/page';
 import About from './compontes/Apout/page';
 import Type from './compontes/Type/page';

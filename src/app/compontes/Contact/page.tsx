@@ -1,4 +1,3 @@
-"use client"
 import Headerw from '../header/page';
 export default function Emthan() {
   

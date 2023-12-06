@@ -1,6 +1,3 @@
-// @flow strict
-
-import Headerw from '../../header/page';
 export default function UpdateStudent({settogle}:any) {
 
 

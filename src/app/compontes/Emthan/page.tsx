@@ -1,4 +1,3 @@
-
 import Headerw from '../header/page';
 import Table from '../Emthan/Taple/page';
 import Result from '../Emthan/Result/page';
