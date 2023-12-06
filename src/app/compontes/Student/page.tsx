@@ -27,7 +27,7 @@ export default function Student() {
 <p>الايميل :sa3356139@gmail.com</p>
 <div className="flex">
 <p>كلمة السر </p>
-<input className='mr-8 border-none focus:outline-none' type="password" name="password"  value={17579325657}/>
+{/* <input className='mr-8 border-none focus:outline-none' type="password" name="password"  value={17579325657}/> */}
 </div>
 </div>
 <button className='font-bold w-[60%] text-center  bg-[#52057b] text-white rounded' onClick={()=>settogle(true)}>تعديل البيانات</button>
