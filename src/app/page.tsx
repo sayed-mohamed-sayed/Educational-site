@@ -19,7 +19,7 @@ export default function Homew() {
                </div>
                <div className=" absolute  font-black text-center ">
                    <h1 className=' font-black text-center z-6 text-white text-[30px]'>هنذاكر اونلاين </h1>
-                   <p className=' font-black w-[350px] z-6 text-white text-[20px]'>ان تعليم الناس وتثقيفهم في حد زاتة ثروة كبيرة فالعلم ثروة ونحن نبني المستقبل علي اساس علمي</p>
+                   <p className='M-text font-black w-[350px] z-6 text-white text-[20px]'>ان تعليم الناس وتثقيفهم في حد ذاتة ثروة كبيرة فالعلم ثروة ونحن نبني المستقبل علي اساس علمي</p>
            <div className="flex justify-center text-white font-black   ">
            <button className='border border-white m-4 pr-2 pl-2 w-[110px]'>اعرف اكثر </button>
            <Link href="/compontes/login">
